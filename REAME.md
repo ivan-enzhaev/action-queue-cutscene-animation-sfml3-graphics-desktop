@@ -1,0 +1,1 @@
+[Guide](http://ivan-enzhaev.github.io/tutorials/sfml3-graphics/desktop/action-queue-cutscene-animation-sfml3-graphics-desktop)
